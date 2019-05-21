@@ -1,0 +1,7 @@
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\bin\Debug\PetyaandStrings.exe.config
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\bin\Debug\PetyaandStrings.exe
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\bin\Debug\PetyaandStrings.pdb
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\obj\Debug\PetyaandStrings.csprojAssemblyReference.cache
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\obj\Debug\PetyaandStrings.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\obj\Debug\PetyaandStrings.exe
+F:\Tutorial\Contest\PetyaandStrings\PetyaandStrings\obj\Debug\PetyaandStrings.pdb
